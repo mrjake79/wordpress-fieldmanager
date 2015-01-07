@@ -1,0 +1,12 @@
+{
+    "name": "alleyinteractive/wordpress-fieldmanager",
+    "description": "Powerful library to make development of sophisticated WordPress features a breeze.",
+    "authors": [
+        {
+            "name": "Austin Smith"
+        },
+        {
+            "name": "Brad Campeau-Laurion"
+        }
+    ]
+}
